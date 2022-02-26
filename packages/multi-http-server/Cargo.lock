@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "single-http-server"
+name = "multi_http_server"
 version = "0.1.0"
