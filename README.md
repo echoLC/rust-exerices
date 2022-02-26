@@ -1,4 +1,5 @@
 # rust-exercise
-A set of crate for rust.
+
+A set of packages for rust.
 
 ## 目录
